@@ -1,5 +1,6 @@
-public class Main
+public class CircularLinkedList
 {
+    // Structure
     static class Node {
         int data;
         Node next;
